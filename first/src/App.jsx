@@ -15,8 +15,6 @@ function App() {
       <div id="about" className='container'>
         <Title subTitle="To Create website" title="Dynamic Website Development"/>
         <About />
-        </div>
-        <div id="services" className='container'>
         <Title subTitle="The premium way" title="Services"/>
         <Services />
         </div>
