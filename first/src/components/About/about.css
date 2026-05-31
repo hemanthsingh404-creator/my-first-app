@@ -1,0 +1,35 @@
+.head{
+    width: 100%;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    flex-wrap: wrap;
+    gap: 30px;
+    padding: 20px 5px;
+}
+.head-left{
+    flex: 1 1 420px;
+    position: relative;
+}
+.head-right h2{
+    font-size: large;
+    font-weight: 600;
+    color: #08003a;
+}
+.smallhead{
+    font-size:small;
+    font-weight: 500;
+    color: #0c9deac1;
+}
+.head-left img{
+    width: 100%;
+    border-radius: 10px;
+}
+.head-right{
+    flex: 1 1 320px;
+}
+.para{
+     color: #676767;
+    margin-bottom: 15px;
+}
